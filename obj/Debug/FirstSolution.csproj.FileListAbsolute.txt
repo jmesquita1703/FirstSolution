@@ -1,0 +1,14 @@
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSample.mdf
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSample_log.ldf
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\hibernate.cfg.xml
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSolution.dll
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSolution.pdb
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\Iesi.Collections.dll
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\log4net.dll
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\NHibernate.dll
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\Iesi.Collections.xml
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\log4net.xml
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\bin\Debug\NHibernate.xml
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\obj\Debug\FirstSolution.dll
+c:\users\marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\obj\Debug\FirstSolution.pdb
+C:\Users\Marcilio\documents\visual studio 2013\Projects\FirstSolution\FirstSolution\obj\Debug\FirstSolution.csprojResolveAssemblyReference.cache
